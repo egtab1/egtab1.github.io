@@ -26,7 +26,7 @@
     <script src="mainMenu.js"></script>
       
 
-    <img src="rechargeLogo.png"/>
+    <img src="RechargeLogo.png"/>
     <p style="color:black">|</p>
       <p>DEFAULT CONTROLS:</p>
       <p>UP: W | DOWN: S | LEFT: A | RIGHT: D</p>
