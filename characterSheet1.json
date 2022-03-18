@@ -1,0 +1,40 @@
+{
+  
+  "frames": [
+{    
+    "name": "rightTin1",
+    "position":{
+    "x":0,
+    "y":0,
+    "w":16,
+    "h":16}
+  },
+  {"name": "rightTin2",
+  "postion":{
+  "x":17,
+  "y":0,
+  "w":16,
+  "h":16
+   }
+    },
+  {"name": "leftTin1",
+  "postion":{
+  "x":33,
+  "y":0,
+  "w":16,
+  "h":16
+   }
+    },
+{"name": "leftTin2",
+  "postion":{
+  "x":49,
+  "y":0,
+  "w":16,
+  "h":16
+   }
+    }
+    
+            ]
+  
+  
+}
