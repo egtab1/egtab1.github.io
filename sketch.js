@@ -94,23 +94,23 @@ let gameOverAudio;
 
 function preload(){
   
- gameLogo = loadImage("sprites/rechargeLogo.png");
-  spriteSheet1=loadImage("sprites/character/characterSheet1.png");
- spriteSheet2=loadImage("sprites/spriteSheet2.png");
+ gameLogo = loadImage("rechargeLogo.png");
+  spriteSheet1=loadImage("characterSheet1.png");
+ spriteSheet2=loadImage("spriteSheet2.png");
   
- motherShip=loadImage("sprites/Mothership.png");
-  characterDeath=loadImage("sprites/character/CharacterDeath.png");
+ motherShip=loadImage("Mothership.png");
+  characterDeath=loadImage("CharacterDeath.png");
   
   //bricks=loadImage("sprites/platforms/bricks.png");
   //planks=loadImage("sprites/platforms/planks.png");
   
-  music=loadSound("sounds/music/Space Game Beat.m4a");
-  titleMusic=loadSound("sounds/music/Test music.m4a");
-  coinPickup=loadSound("sounds/character/Coin.m4a");
-  jump=loadSound("sounds/character/Jump.m4a");
-  hit=loadSound("sounds/enemies/Hit.m4a");
-  select=loadSound("sounds/character/Select.m4a");
-  gameOverAudio=loadSound("sounds/music/GAME OVER.mp3");
+  music=loadSound("Space Game Beat.m4a");
+  titleMusic=loadSound("Test music.m4a");
+  coinPickup=loadSound("Coin.m4a");
+  jump=loadSound("Jump.m4a");
+  hit=loadSound("Hit.m4a");
+  select=loadSound("Select.m4a");
+  gameOverAudio=loadSound("GAME OVER.mp3");
   
 }
 
